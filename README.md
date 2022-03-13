@@ -1,2 +1,2 @@
 # ozax-addon
-sample
+マイクラのアドオンの機能のgametest
